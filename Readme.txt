@@ -1,6 +1,6 @@
-Thanks for downloading this theme! 
+Thanks for downloading this template!
 
-Theme Name: Vlava
-Theme URL: https://themewagon.com/themes/free-html5-one-page-agency-website-template-valva
+Template Name: Vlava
+Template URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
