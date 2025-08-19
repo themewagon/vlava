@@ -1,4 +1,4 @@
-# Alstar – Free Bootstrap 5 One Page Business Website Template
+# Vlava – Free Bootstrap 5 One-Page Agency Website Template
 
 #### Preview
 
